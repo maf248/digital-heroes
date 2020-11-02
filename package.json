@@ -1,0 +1,25 @@
+{
+  "name": "digital-heroes-cn22",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alezvi/digital-heroes-cn22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alezvi/digital-heroes-cn22/issues"
+  },
+  "homepage": "https://github.com/alezvi/digital-heroes-cn22#readme"
+}
