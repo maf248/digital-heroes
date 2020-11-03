@@ -32,7 +32,7 @@ app.get('/heroes', function (req, res) {
 // Aqui creas la ruta para devolver la pagina de los creditos
 // Podes resolverlo en base a los ejemplos anteriores.
 app.get('/creditos', function (req, res) {
-  res.send('<center><b>Marcelo Angel Fanego.</b> <br><br><br><hr><i>"Una frase de prueba, motivacional y muy profunda (?)"</i><hr><br><br><img src="https://i.gifer.com/7jLt.gif" alt="Girl in a jacket" width="874" height="492"></center>');});
+  res.send('<center><b>Marcelo Angel Fanego.</b> <br><br><br><hr><i>"Una frase de prueba, motivacional y muy profunda (?)"</i><hr><br><br><img src="https://i.gifer.com/7jLt.gif" alt="Girl error gif image" width="874" height="492"></center>');});
 
 
 // Ruta... ¿Pára qué sirve esto?
